@@ -1,0 +1,16 @@
+{
+  "name": "veeam",
+  "version": "1.0.0",
+  "description": "Test suit Veeam",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 100000 test_regestration_page.js"
+  },
+  "author": "Michael Gavrilenko",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
