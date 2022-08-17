@@ -4,7 +4,7 @@
   "description": "Test suit Veeam",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --timeout 100000 test_regestration_page.js"
+    "test": "mocha --timeout 100000 test_login_page.js"
   },
   "author": "Michael Gavrilenko",
   "license": "ISC",
